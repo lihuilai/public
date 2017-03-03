@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## [Prism游戏演示](https://lihuilai.github.io/public/build/web-mobile/)
 
 You can use the [editor on GitHub](https://github.com/lihuilai/public/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
